@@ -1,0 +1,36 @@
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.deps.json
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.runtimeconfig.json
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.runtimeconfig.dev.json
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.dll
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.pdb
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.csprojAssemblyReference.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.RazorAssemblyInfo.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.RazorAssemblyInfo.cs
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.AssemblyInfoInputs.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.AssemblyInfo.cs
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.RazorTargetAssemblyInfo.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.dll
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.pdb
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\appsettings.json
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\Connected Services\Application Insights\ConnectedService.json
+D:\App-Repos\BarMenuBoard\BarMenuBoardAPI\BarMenuBoardAPI\BarMenuBoardAPI\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\appsettings.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\Connected Services\Application Insights\ConnectedService.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.deps.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.runtimeconfig.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.runtimeconfig.dev.json
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.dll
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\bin\Release\netcoreapp2.1\BarMenuBoardAPI.pdb
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.csprojAssemblyReference.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.RazorAssemblyInfo.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.RazorAssemblyInfo.cs
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.AssemblyInfoInputs.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.AssemblyInfo.cs
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.RazorTargetAssemblyInfo.cache
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.dll
+D:\App-Repos\BarMenuBoard\BarMenuBoard-API\BarMenuBoardAPI\obj\Release\netcoreapp2.1\BarMenuBoardAPI.pdb
